@@ -20,6 +20,8 @@
     NSLog(@"version1");
     
     NSLog(@"tag1");
+    
+    NSLog(@"version3");
 }
 
 
