@@ -21,7 +21,7 @@
     
     NSLog(@"tag1");
     
-    NSLog(@"version3");
+    NSLog(@"version2");
 }
 
 
