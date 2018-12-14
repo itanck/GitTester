@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E37F7AC21C3485A0048BE0F /* ClassA.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E37F7AB21C3485A0048BE0F /* ClassA.m */; };
 		3EB34DC01EFCDC20004A0EB9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EB34DBF1EFCDC20004A0EB9 /* main.m */; };
 		3EB34DC31EFCDC20004A0EB9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EB34DC21EFCDC20004A0EB9 /* AppDelegate.m */; };
 		3EB34DC61EFCDC20004A0EB9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EB34DC51EFCDC20004A0EB9 /* ViewController.m */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3E37F7AA21C3485A0048BE0F /* ClassA.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ClassA.h; sourceTree = "<group>"; };
+		3E37F7AB21C3485A0048BE0F /* ClassA.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ClassA.m; sourceTree = "<group>"; };
 		3EB34DBB1EFCDC20004A0EB9 /* GitTester.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTester.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EB34DBF1EFCDC20004A0EB9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3EB34DC11EFCDC20004A0EB9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -67,6 +70,8 @@
 				3EB34DCC1EFCDC20004A0EB9 /* LaunchScreen.storyboard */,
 				3EB34DCF1EFCDC20004A0EB9 /* Info.plist */,
 				3EB34DBE1EFCDC20004A0EB9 /* Supporting Files */,
+				3E37F7AA21C3485A0048BE0F /* ClassA.h */,
+				3E37F7AB21C3485A0048BE0F /* ClassA.m */,
 			);
 			path = GitTester;
 			sourceTree = "<group>";
@@ -153,6 +158,7 @@
 			files = (
 				3EB34DC61EFCDC20004A0EB9 /* ViewController.m in Sources */,
 				3EB34DC31EFCDC20004A0EB9 /* AppDelegate.m in Sources */,
+				3E37F7AC21C3485A0048BE0F /* ClassA.m in Sources */,
 				3EB34DC01EFCDC20004A0EB9 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -312,6 +318,7 @@
 				3EB34DD41EFCDC20004A0EB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
