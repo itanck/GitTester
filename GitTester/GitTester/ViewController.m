@@ -22,6 +22,8 @@
     NSLog(@"tag1");
     
     NSLog(@"version2");
+    
+    NSLog(@"Add hotfix");
 }
 
 
