@@ -11,7 +11,7 @@
 @implementation Object1
 
 - (void)issue1{
-    NSLog(@"master");
+    NSLog(@"confilict");
 }
 
 @end
