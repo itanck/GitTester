@@ -11,7 +11,7 @@
 @implementation Object1
 
 - (void)issue1{
-    NSLog(@"new issue");
+    NSLog(@"master");
 }
 
 @end
