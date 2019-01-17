@@ -12,6 +12,7 @@
 
 - (void)issue1{
     NSLog(@"confilict");
+    NSLog(@"other commit");
 }
 
 @end
