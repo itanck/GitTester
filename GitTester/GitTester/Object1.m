@@ -12,7 +12,7 @@
 
 - (void)issue1{
     NSLog(@"confilict");
-    NSLog(@"aaaaaaa");
+    NSLog(@"bbbbbb");
 }
 
 @end
