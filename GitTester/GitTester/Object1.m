@@ -11,8 +11,8 @@
 @implementation Object1
 
 - (void)issue1{
-    NSLog(@"confilict");
-    NSLog(@"bbbbbb");
+    NSLog(@"222222");
+    NSLog(@"111111");
 }
 
 @end

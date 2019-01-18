@@ -23,7 +23,7 @@
     
     NSLog(@"version2");
     
-    NSLog(@"Add hotfix");
+    NSLog(@"aaaaaa");
 }
 
 
