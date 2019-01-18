@@ -12,7 +12,7 @@
 
 - (void)issue1{
     NSLog(@"9999999");
-    NSLog(@"8888888");
+    NSLog(@"111111");
 }
 
 @end
